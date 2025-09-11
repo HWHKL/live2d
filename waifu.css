@@ -446,8 +446,7 @@
  .hide-live2d {
   background-color:#16a085;
   bottom:185px;
-  visibility:visible;
-  min-height:38.75px
+  visibility:visible
  }
  .close-live2d {
   background-color:#b854d4;
@@ -471,8 +470,7 @@
  .save-live2d {
   background-color:orange;
   bottom:66px;
-  visibility:visible;
-  min-height:39.3px
+  visibility:visible
  }
 }
 .hide-live2d-tool {
