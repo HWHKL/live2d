@@ -464,8 +464,7 @@
  .switch-live2d {
   background-color:#16a;
   bottom:105px;
-  visibility:visible;
-  min-height:51px
+  visibility:visible
  }
  .save-live2d {
   background-color:orange;
@@ -474,5 +473,5 @@
  }
 }
 .hide-live2d-tool {
- bottom:15px
+ bottom:14px
 }
