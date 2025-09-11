@@ -3,7 +3,7 @@
 	bottom: -1000px;
 	left: 10px;
 	position: fixed;
-	transform: translateY(3px);
+	transform: translateY(6px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
 	z-index: 30;
 }
